@@ -5,7 +5,7 @@ Machine Learning. Built with XGBoost and SMOTE to help HR teams
 identify at-risk employees and take proactive retention measures.
 
 ## 🚀 Live Demo
-[Click here to view the app](#) <!-- Streamlit link baad mein add karna -->
+[Click here to view the app](https://employee-attrition-pramod.streamlit.app/)
 
 ## ✨ Features
 - 🔍 **Single Prediction** — Predict attrition for individual employees
